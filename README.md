@@ -9,4 +9,4 @@ Simple war card game mande for practice swift basic topics
 
 ## Demo
 
-<img width= "200” height= "400” src= "/assets/cardgame.gif”>
+<img width="200" height="400" src="/assets/cardgame.gif">

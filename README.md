@@ -5,7 +5,7 @@
 
 ## About the App
 
-Simple war card game mande for practice swift basic topics
+Simple war card game made for practice swift basic topics
 
 ## Demo
 
